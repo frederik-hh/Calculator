@@ -3,9 +3,10 @@
 ⚠️ This project is still in active development. Features may change and bugs may exist.
 
 About
-A solo passion project built from scratch — completely free to use for everyone, no ads, no fees, ever. Includes a fully functional calculator and unit converter with multiple categories. Built with dedication and a love for clean, simple design.
+ A solo passion project built from scratch —     completely free to use for everyone, no ads,   no fees, ever. Includes a fully functional calculator and unit converter with multiple categories. Built with dedication and a love for clean, simple design.
 Features
 🧮 Calculator
+
 Basic arithmetic (add, subtract, multiply, divide)
 Percentage calculation
 Live expression display with result preview
