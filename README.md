@@ -6,7 +6,7 @@
 
 ## About
 
-A solo passion project built from scratch — completely free to use for everyone, no ads, no fees, ever. Includes a fully functional calculator and unit converter with multiple categories. Built with dedication and a love for clean, simple design.
+A solo project built from scratch — completely free to use for everyone, no ads, no fees, ever. Includes a fully functional calculator and unit converter with multiple categories. Built with dedication and a love for clean, simple design.
 
 ---
 
